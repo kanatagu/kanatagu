@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 
-**Font-end developer** with around 3 years experiences, enjoying the opportunity to expand my knowledge in new skills, including backend and designing
+**Font-end developer** with around 3 years experiences, enjoying expanding my knowledge in new skills, including backend and designing
 
 * 🌍  I'm based in Vancouver
 * 🖥️  See my portfolio at [kanataguchi.com](http://www.kanataguchi.com/)
