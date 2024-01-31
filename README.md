@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kana
 ============================================================================================================================
 
-Front End Developer
--------------
 
-I've been working as a front-end developer for around 3 years, enjoying the opportunity to expand my knowledge in new skills, including backend and design.
+**Font-end developer** with around 3 years experiences, enjoying the opportunity to expand my knowledge in new skills, including backend and designing
 
 * 🌍  I'm based in Vancouver
 * 🖥️  See my portfolio at [kanataguchi.com](http://www.kanataguchi.com/)
@@ -12,12 +10,12 @@ I've been working as a front-end developer for around 3 years, enjoying the oppo
   * [Trip Schedule App called "Tabi Memo"](http://github.com/tabi-memo)
   * [Recipe App](https://github.com/kanatagu/recipe-app)
   * [Dictionary App](https://github.com/kanatagu/dictionary-app)
-* 🧠  I'm learning backend and design
+* 🧠 I've been recently focusing on learning backend development and design.
 * ⚡  Trying new things is my motto!
 
 ### Skills
 
-### Front End
+#### Front End
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,redux,tailwind,astro,jest)](https://github.com/kanatagu)
 
 #### Back End & Database
@@ -45,8 +43,6 @@ I've been working as a front-end developer for around 3 years, enjoying the oppo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanatagu&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <b>Top Repositories</b>
 
