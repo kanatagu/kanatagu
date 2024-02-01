@@ -41,6 +41,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanatagu&theme=gitdimmed&column=9
+[![trophy](https://github-profile-trophy.vercel.app/?username=kanatagu&theme=discord&column=9
 )](https://github.com/kanatagu)
 
