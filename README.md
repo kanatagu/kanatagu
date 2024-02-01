@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kana
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kana.
 ============================================================================================================================
 
 
@@ -11,7 +11,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   * [Recipe App](https://github.com/kanatagu/recipe-app)
   * [Dictionary App](https://github.com/kanatagu/dictionary-app)
 * 🧠 I've been recently focusing on learning backend development and design.
-* ⚡  Trying new things is my motto!
 
 ### Skills
 
