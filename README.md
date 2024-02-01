@@ -34,12 +34,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### My GitHub Stats
 
 <div align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=kanatagu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kanatagu's GitHub stats" height="180px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanatagu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kanatagu&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=nightowl" alt="kanatagu's GitHub stats" height="180px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanatagu&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&theme=nightowl" alt="Top Languages" height="180px"/>
   
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanatagu&theme=onedark&column=9
+[![trophy](https://github-profile-trophy.vercel.app/?username=kanatagu&theme=gitdimmed&column=9
 )](https://github.com/kanatagu)
 
