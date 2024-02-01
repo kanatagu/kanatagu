@@ -28,8 +28,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 <p>
- <a href="https://www.linkedin.com/in/kana-taguchi/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
- <a href="https://www.dev.to/kana" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="32" height="32"/></a>
+ <a href="https://www.linkedin.com/in/kana-taguchi/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
+ <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="32" height="32"/></a>
 </p>
                                                                      
 ### My GitHub Stats
