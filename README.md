@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   * [Trip Schedule App called "Tabi Memo"](http://github.com/tabi-memo)
   * [Recipe App](https://github.com/kanatagu/recipe-app)
   * [Dictionary App](https://github.com/kanatagu/dictionary-app)
-* 🧠 I've been recently focusing on learning backend development and design.
+* 🧠 I've been recently focusing on learning backend development and designing,
 
 ### Skills
 
@@ -35,7 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="left"> 
 
-<img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=kanatagu&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=nightowl" alt="kanatagu's GitHub stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kanatagu&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=nightowl" alt="kanatagu's GitHub stats" height="180px"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanatagu&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&theme=nightowl" alt="Top Languages" height="180px"/>
   
