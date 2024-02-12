@@ -5,12 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 **Font-end developer** with 3 years experiences, enjoying expanding my knowledge in new skills, including backend and designing
 
 * 🌍  I'm based in Vancouver
-* 🖥️  See my portfolio at [kanataguchi.com](http://www.kanataguchi.com/)
 * 🚀  I'm currently working on 3 personal projects (team & indivisual)
   * [Trip Schedule App called "Tabi Memo"](http://github.com/tabi-memo)
   * [Recipe App](https://github.com/kanatagu/recipe-app)
   * [Dictionary App](https://github.com/kanatagu/dictionary-app)
-* 🧠 I've been recently focusing on learning backend development and designing,
+* 🧠 I've been recently focusing on getting experience in backend development and designing.
 
 ### Skills
 
