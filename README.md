@@ -2,13 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 
-**Font-end developer** with 3 years experiences, enjoying expanding my knowledge in new skills, including backend and designing
+Full stack developer with 3 years of experience especially front-end decvelopment, enjoying expanding my knowledge in new skills.
 
 * 🌍  I'm based in Vancouver
-* 🚀  I'm currently working on 3 personal projects (team & indivisual)
-  * [Trip Schedule App called "Tabi Memo"](http://github.com/tabi-memo)
-  * [Recipe App](https://github.com/kanatagu/recipe-app)
-  * [Dictionary App](https://github.com/kanatagu/dictionary-app)
+* 🚀  I'm currently working on several team and personal projects.
 * 🧠 I've been recently focusing on getting experience in backend development and designing.
 
 ### Skills
@@ -17,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,redux,tailwind,astro,jest)](https://github.com/kanatagu)
 
 #### Back End & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,prisma)](https://github.com/kanatagu)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,prisma,mongodb)](https://github.com/kanatagu)
 
 
 #### Dev Tools etc
