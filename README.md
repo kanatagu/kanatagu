@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full stack developer with 3 years of experience especially front-end decvelopment, enjoying expanding my knowledge in new skills.
 
-* 🌍  I'm based in Vancouver
-* 🚀  I'm currently working on several team and personal projects.
-* 🧠 I've been recently focusing on getting experience in backend development and designing.
+* 🌍  Based in Vancouver
+* 🚀  Currently working on several personal projects.
+* 🧠  Enjoying expanding my knowledge in web development to create innovative services.
 
 ### Skills
 
