@@ -2,16 +2,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 
-Full stack developer with 3 years of experience especially front-end decvelopment, enjoying expanding my knowledge in new skills.
+Full stack developer with 3 years of experience, especially in front-end development.
 
 * 🌍  Based in Vancouver
-* 🚀  Currently working on several personal projects.
-* 🧠  Enjoying expanding my knowledge in web development to create innovative services.
+* 🚀  Currently working on several personal projects
+* 🧠  Enjoying expanding my knowledge to create innovative services
 
 ### Skills
 
 #### Front End
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,redux,tailwind,astro,jest)](https://github.com/kanatagu)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,astro,jest,html,css,sass)](https://github.com/kanatagu)
 
 #### Back End & Database
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,prisma,mongodb)](https://github.com/kanatagu)
