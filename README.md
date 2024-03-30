@@ -8,6 +8,8 @@ Full stack developer with 3 years of experience, especially in front-end develop
 * 🚀  Currently working on several personal projects
 * 🧠  Enjoying expanding my knowledge to create innovative services
 
+* 📝 Blogs: <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer">Dev</a> (English) and <a href="https://qiita.com/kana-wwib" target="_blank" rel="noopener noreferrer">Qiita</a> (Japanese)
+
 ### Skills
 
 #### Front End
@@ -20,12 +22,6 @@ Full stack developer with 3 years of experience, especially in front-end develop
 #### Dev Tools etc
 [![My Skills](https://skillicons.dev/icons?i=git,docker,postman,xd,figma,)](https://github.com/kanatagu)
 
-
-### Socials
-<p>
- <a href="https://www.linkedin.com/in/kana-taguchi/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
- <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="32" height="32"/></a>
-</p>
                                                                      
 ### My GitHub Stats
 
