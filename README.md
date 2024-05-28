@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer with 3 years of experience, especially in front-end development.
 
 * 🌍  Based in Vancouver
-* 🚀  Currently working on several personal projects
 * 🧠  Enjoying expanding my knowledge to create innovative services
 
 * 📝 Blogs: <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer">Dev</a> (English) and <a href="https://qiita.com/kana-wwib" target="_blank" rel="noopener noreferrer">Qiita</a> (Japanese)
