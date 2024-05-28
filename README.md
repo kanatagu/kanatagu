@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kana.
 ============================================================================================================================
 
-
-Full stack developer with 3 years of experience, especially in front-end development.
+Front End Developer
 
 * 🌍  Based in Vancouver
 * 🧠  Enjoying expanding my knowledge to create innovative services
