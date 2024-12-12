@@ -6,7 +6,7 @@ Front End Developer
 * 🌍  Based in Vancouver
 * 🧠  Enjoying expanding my knowledge to create innovative services
 
-* 📝 Blogs: <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer">Dev</a> (English) and <a href="https://qiita.com/kana-wwib" target="_blank" rel="noopener noreferrer">Qiita</a> (Japanese)
+* 📝 Blogs: <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer">Dev</a>
 
 ### Skills
 
