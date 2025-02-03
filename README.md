@@ -3,10 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front End Developer
 
-* 🌍  Based in Vancouver
-* 🧠  Enjoying expanding my knowledge to create innovative services
+* 🌍 Based in Vancouver 
+* 🧠 Passionate about expanding my knowledge to create innovative services and designing clean, scalable architectures
 
-* 📝 Blogs: <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer">Dev</a>
+* 📝 Blog: <a href="https://www.dev.to/kana" target="_blank" rel="noopener noreferrer">Dev</a>
 
 ### Skills
 
