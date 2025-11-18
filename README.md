@@ -21,7 +21,6 @@ I'm Kana, a Front-End Engineer from Japan. I began my engineering career in 2020
 
 <div align="left"> 
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=kanatagu&theme=rose_pine&hide_border=false" alt="kanatagu's GitHub stats" height="180px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanatagu&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" height="180px"/>
   
 </div>
